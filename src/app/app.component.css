@@ -1,0 +1,11 @@
+.sidebar {
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  border-right: 1px solid #ddd;
+}
+
+main {
+  margin-left: 250px;
+}
